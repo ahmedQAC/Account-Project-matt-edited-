@@ -1,0 +1,10 @@
+com\qa\domain\Account.class
+com\qa\repository\AccountService.class
+com\qa\rest\AccountEndpoint.class
+com\qa\repository\AccountMapRepository.class
+com\qa\service\AccountService.class
+com\qa\repository\AccountRepository.class
+com\qa\repository\AccountDBRepository.class
+com\qa\util\JSONUtil.class
+com\qa\rest\JAXActivator.class
+com\qa\service\AccountServiceImpl.class
